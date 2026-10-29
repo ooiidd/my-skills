@@ -4,16 +4,16 @@ Imported: 2026-10-29
 
 ## karpathy-guidelines
 
-- Repository: https://github.com/multica-ai/andrej-karpathy-skills
-- Commit: [2c606141936f1eeef17fa3043a72095b4765b9c2](https://github.com/multica-ai/andrej-karpathy-skills/commit/2c606141936f1eeef17fa3043a72095b4765b9c2)
+- Repository: https://github.com/richling98/karpathy-codex-skills
+- Commit: [6ff213d65058b1879b4cd73861aa687ec07e68bf](https://github.com/richling98/karpathy-codex-skills/commit/6ff213d65058b1879b4cd73861aa687ec07e68bf)
 - Source directory: `skills/karpathy-guidelines/`
 - License: MIT
-- Skill files: copied without modification
+- Skill files: copied without modification; upstream LICENSE added to the skill folder
 
 ## planning-with-files
 
-- Repository: https://github.com/OthmanAdi/planning-with-files
-- Commit: [5d29800bf8b919ca9a88ee7885b90050b5cb64ed](https://github.com/OthmanAdi/planning-with-files/commit/5d29800bf8b919ca9a88ee7885b90050b5cb64ed)
-- Source directory: `skills/planning-with-files/`
+- Repository: https://github.com/d0ublecl1ck/planning-with-files-codex
+- Commit: [48040eb36f4efb6359ab0535c3d09c13d6ce4238](https://github.com/d0ublecl1ck/planning-with-files-codex/commit/48040eb36f4efb6359ab0535c3d09c13d6ce4238)
+- Source directory: `planning-with-files/`
 - License: MIT
-- Skill files: copied without modification
+- Skill files: copied without modification; upstream LICENSE added to the skill folder
